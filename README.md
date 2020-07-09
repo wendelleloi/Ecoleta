@@ -210,7 +210,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
-<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/wendell-eloi-1a5324168/">Wendell Eloi/a></h2>
+<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/wendell-eloi-1a5324168/">Wendell Eloi</a></h2>
 
 <!-- Website Links -->
 
